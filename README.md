@@ -2,4 +2,4 @@
 
 ## :sassy_man:  About me
 - :school: I graduated from the Rajamangala University of Technology in Thanyaburi
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I'm studying mobile application development
