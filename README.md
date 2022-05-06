@@ -4,4 +4,6 @@
 - :school: I graduated from the Rajamangala University of Technology in Thanyaburi
 - 🌱 I'm studying mobile application development
 
-### 🔥 Streak Stats
+## 🛠️ My Skills
+
+### 👉 Programming languages
