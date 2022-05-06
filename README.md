@@ -41,7 +41,7 @@
 
 ### 👉 Operating Systems
 
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="100" height="100"/>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
 </a> <a href="https://www.microsoft.com/th-th/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" /> </a><a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" /> </a></p>
 
 ## 🔥 Stats
@@ -52,5 +52,5 @@
 
 <h1 align="center"<b>📬 Contact Me</b></h1>
 
-<p align="center"><a href="mailto:anukit.sornboonta@gmail.com" target="blank"><img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://img.icons8.com/color/344/gmail-new.png" height="50" width="50" /></a>
+<p align="center"><a href="mailto:anukit.sornboonta@gmail.com" target="blank"><img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="40" width="40" /></a>
 <a href="https://github.com/Anukit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="HridoyHazard" height="40" width="40" /></a></p>
