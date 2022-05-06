@@ -52,5 +52,5 @@
 
 <h1 align="center"<b>📬 Contact Me</b></h1>
 
-<p align="center"><a href="anukit.sornboonta@gmail.com" target="blank"><img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="40" width="40" /></a>
+<p align="center"><a href="mailto:anukit.sornboonta@gmail.com" target="blank"><img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="40" width="40" /></a>
 <a href="https://github.com/Anukit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="HridoyHazard" height="40" width="40" /></a></p>
