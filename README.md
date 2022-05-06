@@ -7,4 +7,4 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anukit&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
