@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Anukit&show_icons=true&theme=algolia"/>
 </p>
 
-<h1 align="center"<b>📬 Contact Me</b></h1>
+<h1 align="left"<b>📬 Contact Me</b></h1>
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
