@@ -16,7 +16,7 @@
   <img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" />
+## 🔥 Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anukit&theme=algolia" alt="7oSkaaa" />
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
 </p>
