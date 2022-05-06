@@ -30,6 +30,8 @@
 
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
+### 👉 Operating Systems
+
 ## 🔥 Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anukit&theme=algolia" alt="7oSkaaa" />
 <img src="https://github-readme-stats.vercel.app/api?username=Anukit&show_icons=true&theme=algolia"/>
