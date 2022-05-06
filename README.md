@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Anukit Sornboonta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
 - 🌱 I’m currently learning how to play guitar, write accademically, make films, and be consistent.
