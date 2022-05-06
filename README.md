@@ -1,5 +1,9 @@
 <h1 align="center">Hi , I'm Anukit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47gjzdv5bdfrp164ppqiadv68lvjmzcndu5fohf8ym&rid=giphy.gif&ct=g"/>
+</p>
+
 ## :sassy_man:  About me
 - :school: I graduated from the Rajamangala University of Technology in Thanyaburi
 - 🌱 I'm studying mobile application development
