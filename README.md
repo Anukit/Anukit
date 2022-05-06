@@ -9,10 +9,10 @@
 ### 👉 Programming languages
 <p align="left"> 
   &emsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
